@@ -12,7 +12,7 @@ baseURL: 'https://meusprojetos-beatriz-santos.netlify.app/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: pt-br
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
