@@ -3,15 +3,15 @@
 title: Beatriz Santos 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Beatriz 
+last_name: Santos
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: ✨
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Bioprocess Engineering and Biotechnology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,25 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto: beatrizssaurora@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+
+
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/beatrizssaurora
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/beatrizssaurora/
+
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Cybersecurity (enthusiast)
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +178,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Beatriz, a bioprocess and biotechnology engineer from UNESP and passionate about technology. I believe that technology has the power to simplify the complex and create elegant solutions for everyday challenges.
+
+I'm currently transitioning my career to the technology field, focusing on backend development and data analysis. To prepare for this new journey, I participated in bootcamps and intensive courses at ADA TECH and ALURA, where I improved my programming and data analysis skills.
+
+I'm a curious person who loves to learn and share knowledge. If you want to follow my journey, follow me on LinkedIn!
+
+My work explores digital interfaces and interactive experiences.
