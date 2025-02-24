@@ -1,1 +1,1 @@
-![Capa do Portfólio](public\author\beatriz-santos\sobre.png)
+![Capa do Portfólio](public/author/beatriz-santos/beatriz-santos/sobre.png)
