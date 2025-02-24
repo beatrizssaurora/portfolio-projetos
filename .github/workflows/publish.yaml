@@ -36,6 +36,14 @@ jobs:
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
+    - name: Cache Hugo Modules  # Novo passo para configurar o cache
+      uses: actions/cache@v3 # Ou actions/cache@v4 se preferir a versão mais recente
+      with:
+          path: /tmp/hugo_cache_runner/ # Caminho para o cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }} # Chave de cache usando go.sum
+          restore-keys: |
+            ${{ runner.os }}-hugomod- # Chave de fallback
+
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
