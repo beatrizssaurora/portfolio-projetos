@@ -15,11 +15,13 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-      - text: Download CV
-        url: uploads/CV_Beatriz dos Santos Silva.pdf
-      - text: Download CV_English
-        url: uploads/English_Beatriz dos Santos Silva.pdf
+    button:
+    text: Download CV
+    url: uploads/CV_Beatriz dos Santos Silva.pdf
+           #icon: file-pdf # Ou algum ícone relevante
+    text: Download CV_English
+    url: uploads/English_Beatriz dos Santos Silva.pdf
+          #icon: file-pdf # Ou algum ícone relevante
     design:
       css_class: dark
       background:
